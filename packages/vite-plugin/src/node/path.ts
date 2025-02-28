@@ -1,6 +1,4 @@
-import { posix } from 'path'
-
-export const {
+export {
   basename,
   dirname,
   extname,
@@ -14,4 +12,4 @@ export const {
   resolve,
   toNamespacedPath,
   sep,
-} = posix
+} from 'pathe'

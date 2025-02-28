@@ -74,6 +74,7 @@
     "fs-extra": "^10.0.1",
     "jsesc": "^3.0.2",
     "magic-string": "^0.30.12",
+    "pathe": "^2.0.1",
     "picocolors": "^1.0.0",
     "react-refresh": "^0.13.0",
     "rollup": "2.79.2",
